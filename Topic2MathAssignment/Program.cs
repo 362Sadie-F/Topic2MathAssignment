@@ -20,7 +20,8 @@
             //Math.PI is accurate but longer
             Console.WriteLine(Math.PI * 3 + "3" + 2 + "cm^2");
             Console.WriteLine("C# knows when to add using the + symbol based on the use of quotations.");
-            Console.WriteLine(Math.Round);
+            Console.WriteLine();
+            //Math.Round to nearest decimal 
         }
     }
 }
